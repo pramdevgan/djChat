@@ -1,0 +1,11 @@
+openapi: 3.0.3
+info:
+  title: djChat
+  version: 1.0.0
+  description: '"DjChat" is a dynamic and user-friendly chat application, powered
+    by the Django framework. It offers a secure and efficient way for users to engage
+    in real-time conversations and collaboration. With a sleek and intuitive user
+    interface, DjChat provides a wide range of features, making it suitable for various
+    communication needs.'
+paths: {}
+components: {}
